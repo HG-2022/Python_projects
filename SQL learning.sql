@@ -125,6 +125,7 @@ where employeeID=1001
 
 
 ---- window function
+----date, time, rownumber, in, not in
 
 
 

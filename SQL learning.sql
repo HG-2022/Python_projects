@@ -120,6 +120,13 @@ select employeeID, jobtitle,salary
 from EmployeeSalary
 where employeeID=1001
 
+To query top 10 rows
+select top 10 FirstNmae, age from EmployeeDemographics
+
+## to select percent of table
+select top 10 percent * from EmployeeDemographics ### sellects 10% of the table EmployeeDemographics
+
+
 
 
 

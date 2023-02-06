@@ -6,7 +6,7 @@ I'm a Master's Graduate in Engineering Technology Management from Portland State
 
 
 - 👀 I’m interested in Data analysis, Project Management, Python,SQL
-- 🌱 I’m currently learning SQL,Python,Tableau
+- My skills include: SQL,Python,Tableau,Excel
 - 💞️ 
 - 📫 How to reach me ...harshita.gadiraju88@gmail.com
 
